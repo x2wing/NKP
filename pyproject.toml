@@ -12,7 +12,8 @@ dependencies = [
     "pandas",
     "openpyxl",
     "sqlalchemy",
-    "PySide6>=6.6.0"
+    "PySide6>=6.6.0",
+    "qtpy",
 ]
 
 [project.scripts]
